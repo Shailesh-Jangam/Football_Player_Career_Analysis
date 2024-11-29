@@ -7,23 +7,23 @@ This project uses Python and data analysis techniques to perform a detailed care
 
 # Methodology:
 
-1. # Data Loading
+1. Data Loading
    Imported datasets containing match statistics, goalscorers, results, and shootout details.
    Verified the data integrity and ensured proper formatting.
-2. # Data Preprocessing
+2. Data Preprocessing
    Cleaned and filtered data specific to Cristiano Ronaldo by isolating relevant columns and entries.
    Handled missing values and categorized variables (e.g., match types, goal timings).
-3. # Exploratory Data Analysis (EDA)
+3. Exploratory Data Analysis (EDA)
    Performed univariate and bivariate analyses to understand the distribution and relationships in the data.
    Visualized trends using bar charts, pie charts, and line plots.
-4. # Key Analyses
+4. Key Analyses
    Goals by Year: Identified Ronaldo's peak and most consistent years.
    Goals by Match Type: Analyzed his performance in home, away, and neutral matches.
    Goals Timing: Explored when Ronaldo scored most frequently during matches.
    Performance in Tournaments: Evaluated his contributions in various tournaments like the FIFA World Cup, UEFA Euro, and others.
    Comparative Analysis: Compared Ronaldo’s career statistics with Lionel Messi to highlight differences.
    Finals Analysis: Examined his impact in finals versus regular matches.
-5. # Visualization
+5. Visualization
    Created visual representations such as:
    Goals by year (line plot).
    Goals by timing intervals (bar chart).
